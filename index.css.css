@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .container h1 {
+    margin-top: 20px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      background-color: #343a40;
+      width: 100%;
+    }
+  
+    .nav-link {
+      color: white;
+    }
+  }
+  
+  
